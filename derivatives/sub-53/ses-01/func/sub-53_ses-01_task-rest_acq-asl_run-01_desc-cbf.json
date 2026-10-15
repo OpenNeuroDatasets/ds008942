@@ -1,0 +1,11 @@
+{
+	"Description": "Cerebral blood flow (CBF) map reconstructed from ASL data",
+	"GeneratedBy": [
+	  {
+		"Name": "myASLproc",
+		"Version": "1.0",
+		"Description": "Custom ASL reconstruction pipeline"
+	  }
+	],
+	"Units": "ml/100g/min"
+  }  
